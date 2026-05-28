@@ -6,11 +6,9 @@ public class Holamundo : MonoBehaviour
     void Start()
     {
         print("Algo paso");
-        Debug.Log("Algo salio bien");
-        Debug.LogWarning("Algo Salio rarete");
-        Debug.LogError("Algo salio muy pero que muy mal");
-
-
+        Debug.Log("Algo paso");
+        Debug.LogWarning("Algo salio medianamente mal");
+        Debug.LogError("Algo salio muy mal");
     }
 
     // Update is called once per frame

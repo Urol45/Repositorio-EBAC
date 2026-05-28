@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 7fe65a27600edf54c883dd848ae325e5
+  productGUID: 0e85f93b107fe87439eefc6e89ec0099
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Repositorio de Prueba
+  productName: ProyectoUnity
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -847,14 +847,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Repositorio de Prueba
+  metroPackageName: ProyectoUnity
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Repositorio de Prueba
+  metroApplicationDescription: ProyectoUnity
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -925,10 +925,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 765b3ae5-b04b-45f0-bbf5-293f0c7d74ff
+  cloudProjectId: 15e8b501-7e38-405b-a0dd-fc53ab0e5ccb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Repositorio de Prueba
+  projectName: ProyectoUnity
   organizationId: joanurdanet60
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
